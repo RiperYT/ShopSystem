@@ -1,0 +1,1 @@
+.\bin\psql.exe -U zlagoda_admin -p 5603 -a -f zlagoda-dump.sql

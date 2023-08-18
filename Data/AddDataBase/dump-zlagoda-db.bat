@@ -1,0 +1,1 @@
+.\bin\pg_dump.exe -U postgres --dbname="zlagoda" -p 5600 --file="zlagoda-dump.sql" --clean --if-exists --create --schema-only
